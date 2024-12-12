@@ -15,7 +15,7 @@ Dependencies: <br>
 `python main.py --data [--data] [--split]`<br>
 Parameters:<br>
 - `--data`: select `<dataset name>` from `BindingDB`, `BioSNAP`, `Human`<br>
-- `--split`: select `<split>` from `random`, `cold`<br>
+- `--split`: select `<split>` from `random`,<br>
 
 
 
